@@ -6,5 +6,5 @@
 - 💬 Enjoy Aja yah
 ## Education:
 
-#### 1. [SMK Kesuma Margoyoso Pati]([https://smkkesumamargoyoso.sch.id/) | Teknik Komputer dan Jaringan] | Pati
+#### 1. [SMK Kesuma Margoyoso Pati]([https://smkkesumamargoyoso.sch.id/]) | [Teknik Komputer dan Jaringan] | Pati
    - Kelas 10
